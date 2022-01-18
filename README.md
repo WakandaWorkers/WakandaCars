@@ -1,9 +1,6 @@
 # WakandaCars
 Java coding Challenge
 
-
-Java Coding Challenge
-
 The goal of this challenge is to give you an opportunity to show us what you know and how you would work in a real-life project.
 
 General aspects
